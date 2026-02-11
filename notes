@@ -1,0 +1,2 @@
+export FINN_ROOT="."
+export FINN_BUILD_DIR="/tmp/finn_build"
